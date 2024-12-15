@@ -1,1 +1,3 @@
+This is a just one example of how the Power Bi could be useful. 
 
+Please see this link: https://app.powerbi.com/view?r=eyJrIjoiNWFjMDg0NDUtNzE5ZS00ODg4LThlODUtMjQ4ODQ4YjIwODVjIiwidCI6IjhmZWQzNjViLTAxNjUtNGVmOC04NTkwLWIwNjIzNmI2YTFlMiIsImMiOjEwfQ%3D%3D
